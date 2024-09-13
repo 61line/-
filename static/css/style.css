@@ -1,0 +1,46 @@
+.fs20 {
+    font-size: 20px;
+}
+.fs30 {
+    font-size: 30px;
+}
+.fs40 {
+    font-size: 40px;
+}
+
+.fs14 {
+    font-size: 14px;
+}
+
+.row1 .el-card {
+    height: 150px;
+}
+
+.el-row{
+    margin: 10px 0;
+}
+
+.ecol {
+    height: 100%;
+    background-image: url("/static/imgs/border.png");
+    background-size: 100% 100%;
+}
+
+.ecol > div {
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+}
+
+.topMenu .el-card__body {
+    margin: 0;
+    padding: 0
+}
+
+.el-card__body {
+    height: 100%;
+}
+
+#app > div > div {
+    height: 100%;
+}
